@@ -28,5 +28,9 @@ bitcoin price in Costa Rica Colon:
 
 ###TODO
 * asynchronous ajax call to the exchange api
+* add another design class - fancy - with odometer.js animation
 * refactor the code 
 * refactor the code to erase the jquery parts and leave pure javascript
+
+###Thanks
+* design slightly taken from http://btcquote.com
