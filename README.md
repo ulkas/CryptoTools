@@ -1,7 +1,8 @@
-# crypto tools - cryptocpin website widgets
+## Crypto Tools - cryptocoin website widgets
 * price widget  for bitcoin, litecoin, primecoin, peercoin, dogecoin
 * bitcoin price in many fiat currencies
 * ability to add your crypto currency
+* <a href="cryptotools.ulkas.eu">Demo</a>
 
 ###install
 * requires jquery
