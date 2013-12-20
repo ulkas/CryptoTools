@@ -10,6 +10,8 @@
 ```html
 //add this at the end of your html before </body>
 <script src="js/cryptotools.js"></script>
+//alternativelly
+<script src="https://raw.github.com/ulkas/CryptoTools/master/js/cryptotools.js"></script>
 ```
 
 ###usage
