@@ -2,7 +2,7 @@
 * price widget  for bitcoin, litecoin, primecoin, peercoin, dogecoin
 * bitcoin price in many fiat currencies
 * ability to add your crypto currency
-* <a href="cryptotools.ulkas.eu">Demo</a>
+* Demo at http://cryptotools.ulkas.eu
 
 ###install
 * requires jquery
