@@ -3,7 +3,7 @@
 * bitcoin price in many fiat currencies
 * ability to add your crypto currency
 
-###install
+##install
 * requires jquery
 
 ```html
@@ -11,7 +11,7 @@
 <script src="js/cryptotools.js"></script>
 ```
 
-###usage
+##usage
 ```html
 basic bitcoin price:
 <div class="ctprice"></div>
@@ -24,8 +24,3 @@ primecoin price in PPC:
 bitcoin price in Costa Rica Colon:
 <div class="ctprice" data-for="btc" data-currency="crc"></div>
 ```
-
-###TODO
-* asynchronous ajax call to the exchange api
-* refactor the code 
-* refactor the code to erase the jquery parts and leave pure javascript
